@@ -55,4 +55,20 @@ Sur les images ci-dessus, vous pouvez voir deux exemples de visualiseurs de clav
 
 N'hésitez pas à utiliser le visualiseur de clavier pour vous familiariser avec votre nouvelle disposition !
 
+Voici une version mise à jour du paragraphe avec l’ajout de l’option "Ouvrir avec" pour une installation plus facile via **Keyboard Installer** :
+
+---
+
+### Si l'installation ne fonctionne pas
+
+Si l'installation du fichier `.bundle` ne fonctionne pas ou si vous rencontrez des problèmes avec la disposition du clavier, vous pouvez utiliser **Ukulele**, un outil gratuit qui vous permet de créer et de personnaliser des dispositions de clavier pour macOS.
+
+1. **Téléchargez et installez Ukulele** depuis [le site officiel](https://software.sil.org/ukelele/).
+2. Une fois Ukulele installé, ouvrez-le et importez le fichier `.bundle`.
+3. Vous pourrez vérifier et ajuster la disposition du clavier directement dans l'application avant de l'installer à nouveau sur votre système.
+
+Une autre option pour installer plus facilement le fichier `.bundle` est d'utiliser **Keyboard Installer**. Vous pouvez faire un clic droit sur le fichier `.bundle` et sélectionner **"Ouvrir avec"** puis choisir **Keyboard Installer**. Cette méthode simplifie le processus et permet une installation rapide de la disposition de clavier sans avoir à la placer manuellement dans le dossier `~/Library/Keyboard Layouts/`.
+
+Ukulele et Keyboard Installer sont particulièrement utiles si vous souhaitez personnaliser ou installer facilement une disposition de clavier personnalisée.
+
 ---
