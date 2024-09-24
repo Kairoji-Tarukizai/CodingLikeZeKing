@@ -1,4 +1,4 @@
-# CodingLikeZeBoss
+# CodingLikeZeKing
 ### Comment coder efficacement avec un clavier suisse grâce à mon fichier `.bundle`
 
 Si vous codez régulièrement avec un clavier suisse, vous savez sûrement à quel point il peut être frustrant de jongler entre les différentes touches pour accéder à certains caractères nécessaires pour coder. J'ai créé un fichier `.bundle` qui s'installe facilement et qui vous permet d'ajouter une disposition optimisée pour le code avec un clavier suisse, que je vais vous partager ici. 
